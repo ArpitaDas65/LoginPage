@@ -1,6 +1,8 @@
-LOGIN SETUP
+LOGIN SETUP 
+
 Exciting New Project Alert! 🚀
 Welcome to My login Page Project! 🌟
+This project is build by Nalla Sarath 
 
 I'm thrilled to share my latest project with you all! 😁 This project showcases a seamless login page experience with:
 
